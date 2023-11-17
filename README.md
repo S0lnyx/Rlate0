@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -18,8 +20,8 @@
 ### 📊 Github Stats
 
 ![Rlate's's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlate0&show_icons=true&theme=apprentice)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rlate0&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlate0&layout=compact)
 
 #
 
