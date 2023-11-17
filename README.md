@@ -28,5 +28,3 @@
 ### 📊 Stats form other services
 
 ![Rlate's's GitHub stats](https://www.codewars.com/users/Rlate0/badges/large)
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649009d2779070ae624b31f1?variant=dark)](https://roadmap.sh)
