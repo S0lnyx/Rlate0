@@ -1,6 +1,4 @@
 # Hello GitHub! 👋
-
-
 ![](https://komarev.com/ghpvc/?username=rlate0&color=blue&style=flat)
 
 ## 📊 Stats
