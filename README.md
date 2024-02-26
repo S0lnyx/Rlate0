@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=rlate0&color=blue&style=flat)
 
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlate0&langs_count=8 icons=true$theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlate0&langs_count=8_icons=true&theme=radical)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=rlate0&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=rlate0&show_icons=true&theme=radical)
 
