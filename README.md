@@ -10,8 +10,9 @@
 
  ## 👨🏻‍💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![CPP](https://img.shields.io/badge/-c++-090909?style=for-the-badge&logo=cplusplus)
 ![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
-![Docker](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
 
 ## 🔗 Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/@rlate0)
