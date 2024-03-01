@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=rlate0&color=blue&style=flat)
 
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlate0&langs_count=8_icons=true&theme=radical)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=rlate0&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=rlate0&show_icons=true&theme=radical)
 
